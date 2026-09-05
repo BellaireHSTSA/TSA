@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bhs-tsa--bellairehstsa.replit.app/sitemap.xml

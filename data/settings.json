@@ -1,0 +1,16 @@
+{
+  "admin_password": "TSA2025",
+  "meetings_agenda": "[{\"date\":\"Aug 20, 2026\",\"topic\":\"Interest Meeting\",\"type\":\"General\",\"time\":\"2nd Half of Lunch\"},{\"date\":\"Sep 9, 2026\",\"topic\":\"Competitive Events Meeting\",\"type\":\"General\",\"time\":\"All of Lunch\"},{\"date\":\"Sep 23, 2026\",\"topic\":\"Finalize Teams and Events\",\"type\":\"General\",\"time\":\"2nd Half of Lunch\"}]",
+  "meetings_general_schedule": "Every other Wednesday, second half of lunch or all of lunch.",
+  "meetings_general_location": "Room 2607 (Dr. Pichot's Room)",
+  "members_status_title": "Registration is Currently Closed",
+  "members_resources_text": "Access exclusive study materials, past projects, and mentorship from alumni to help you succeed in your chosen events.",
+  "members_status_desc": "We are accepting new members at this time for the 2026-2027 season. If you would like to apply, fill the following form by clicking the \"Join Now\" button.",
+  "members_registration_open": "true",
+  "members_leadership_text": "Develop soft skills through leadership workshops, officer positions, and team management experiences that colleges value.",
+  "members_competitions_text": "Compete in over 30 STEM events ranging from coding and engineering to photography and debate at regional, state, and national levels.",
+  "meetings_officer_schedule": "Mondays, 7:30 AM - 8:15 AM",
+  "meetings_officer_desc": "Leadership meetings focus on strategic planning, event logistics, and chapter management. Open to elected officers and committee heads.",
+  "meetings_general_desc": "Our general meetings are held every other week to discuss chapter business, upcoming events, and competition preparation. Attendance is highly encouraged for all members.",
+  "meetings_officer_location": "Library Conference Room"
+}
