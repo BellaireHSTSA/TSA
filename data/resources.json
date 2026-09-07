@@ -1,6 +1,6 @@
 [
   {
-    "id": 2,
+    "id": 1,
     "title": "UTE Rules",
     "description": "Use this website to see the specific rules for your event.",
     "url": "https://texastsarulebook.org/",
@@ -8,10 +8,18 @@
     "position": 1
   },
   {
-    "id": 1,
+    "id": 2,
     "title": "National TSA Website",
     "description": "Use this website to find general information.",
     "url": "https://tsaweb.org/",
+    "category": "General",
+    "position": 0
+  },
+  {
+    "id": 3,
+    "title": "National TSA Themes and Problems",
+    "description": "Use this website to find specific information on an event with a theme.",
+    "url": "https://tsaweb.org/competitions/themes-and-problems",
     "category": "General",
     "position": 0
   }
