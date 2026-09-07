@@ -1,6 +1,25 @@
 {
   "admin_password": "TSA2025",
-  "meetings_agenda": "[{\"date\":\"Aug 20, 2026\",\"topic\":\"Interest Meeting\",\"type\":\"General\",\"time\":\"2nd Half of Lunch\"},{\"date\":\"Sep 9, 2026\",\"topic\":\"Competitive Events Meeting\",\"type\":\"General\",\"time\":\"All of Lunch\"},{\"date\":\"Sep 23, 2026\",\"topic\":\"Finalize Teams and Events\",\"type\":\"General\",\"time\":\"2nd Half of Lunch\"}]",
+  "meetings_agenda": "meetings_agenda": [
+  {
+    "date": "Sep 9, 2026",
+    "topic": "Competitive Events Meeting",
+    "type": "General",
+    "time": "All of Lunch"
+  },
+  {
+    "date": "Sep 23, 2026",
+    "topic": "Finalize Teams and Events",
+    "type": "General",
+    "time": "2nd Half of Lunch"
+  },
+  {
+      "date": "Oct 5-9, 2026",
+      "topic": "Build Team Timelines",
+      "type": "Events",
+      "time": "TBD"
+  }
+],
   "meetings_general_schedule": "Every other Wednesday, second half of lunch or all of lunch.",
   "meetings_general_location": "Room 2607 (Dr. Pichot's Room)",
   "members_status_title": "Registration is Currently Closed",
