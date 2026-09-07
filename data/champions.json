@@ -1,82 +1,5 @@
 [
   {
-    "id": 5,
-    "memberName": "Emil Mammadov, Jad Khraibani, Jake Fleisher",
-    "eventTitle": "Board Game Design",
-    "placement": "Finalist",
-    "level": "Regionals",
-    "year": "2026",
-    "notes": "",
-    "mediaUrl": "attached_assets/Board-Game-Design-1782669099533.jpg",
-    "position": 2
-  },
-  {
-    "id": 6,
-    "memberName": "Liba Sigel & Joude Khraibani",
-    "eventTitle": "Forensic Science",
-    "placement": "Finalist",
-    "level": "Regionals",
-    "year": "2026",
-    "notes": "",
-    "mediaUrl": "attached_assets/Forensic-Science-1782668631296.jpg",
-    "position": 1
-  },
-  {
-    "id": 16,
-    "memberName": "Liba Sigel, Kiara MontefuscoGuzman, JP Tannoux, Joude Khraibani",
-    "eventTitle": "Digital Video Production",
-    "placement": "Finalist",
-    "level": "Regionals",
-    "year": "2026",
-    "notes": "Remix a Historical Event",
-    "mediaUrl": "https://youtu.be/FD0YpAv-PE8",
-    "position": 3
-  },
-  {
-    "id": 7,
-    "memberName": "Avi Sigel, Henry Pan, Dev Thosani, Jaocb Lin, Emil Mammadov, Jad Khraibani",
-    "eventTitle": "Video Game Design",
-    "placement": "Finalist",
-    "level": "Regionals",
-    "year": "2026",
-    "notes": "If you want to play the game: https://henspy.github.io/gametsa25/",
-    "mediaUrl": "attached_assets/Copy-of-7280---Video-Game-Design-A-Dogâs-Best-Friend-Space-City,-Texas-2026-1780413185754.mp4",
-    "position": 5
-  },
-  {
-    "id": 15,
-    "memberName": "Henry Pan, Kiara MontefuscoGuzman, JP Tannoux, Marwan Elkady",
-    "eventTitle": "On Demand Video",
-    "placement": "Finalist",
-    "level": "Regionals",
-    "year": "2026",
-    "notes": "",
-    "mediaUrl": "https://youtu.be/X23V7CWgABI",
-    "position": 4
-  },
-  {
-    "id": 9,
-    "memberName": "Jacob Lin & Henry Pan",
-    "eventTitle": "Coding",
-    "placement": "Semi-Finalist",
-    "level": "Regionals",
-    "year": "2026",
-    "notes": "",
-    "mediaUrl": "attached_assets/Coding-1780413550094.jpg",
-    "position": 6
-  },
-  {
-    "id": 11,
-    "memberName": "Bella Shabelansky",
-    "eventTitle": "Finish Model of a Residential Home",
-    "placement": "3rd Place",
-    "level": "Regionals",
-    "year": "2026",
-    "notes": "",
-    "mediaUrl": "attached_assets/residentail-home-1782669428827.jpg",
-    "position": 10
-  },
-  {
     "id": 1,
     "memberName": "Liba Sigel, Bella Shabelansky, Ashwin Perumal",
     "eventTitle": "Mass Production",
@@ -110,17 +33,6 @@
     "position": 14
   },
   {
-    "id": 10,
-    "memberName": "Liba Sigel, Ireoluwa Freeman, Saffana Zindani",
-    "eventTitle": "Community Service Video",
-    "placement": "Finalist",
-    "level": "Nationals",
-    "year": "2025",
-    "notes": "",
-    "mediaUrl": "https://youtu.be/uz_kDgaUc4o",
-    "position": 15
-  },
-  {
     "id": 4,
     "memberName": "Zed Ibeawuchi & Emil Mammadov",
     "eventTitle": "Coding",
@@ -132,26 +44,81 @@
     "position": 13
   },
   {
-    "id": 14,
-    "memberName": "Joude Khraibani",
-    "eventTitle": "Photography - Pet (Color)",
+    "id": 5,
+    "memberName": "Emil Mammadov, Jad Khraibani, Jake Fleisher",
+    "eventTitle": "Board Game Design",
     "placement": "Finalist",
     "level": "Regionals",
     "year": "2026",
     "notes": "",
-    "mediaUrl": "attached_assets/Photography-Pet.jpg",
-    "position": 7
+    "mediaUrl": "attached_assets/Board-Game-Design-1782669099533.jpg",
+    "position": 2
   },
   {
-    "id": 13,
-    "memberName": "Liba Sigel",
-    "eventTitle": "Photography - Sunrise/ Sunset (Color)",
+    "id": 6,
+    "memberName": "Liba Sigel & Joude Khraibani",
+    "eventTitle": "Forensic Science",
     "placement": "Finalist",
     "level": "Regionals",
     "year": "2026",
     "notes": "",
-    "mediaUrl": "attached_assets/Photography-Sunset.png",
-    "position": 8
+    "mediaUrl": "attached_assets/Forensic-Science-1782668631296.jpg",
+    "position": 1
+  },
+  {
+    "id": 7,
+    "memberName": "Avi Sigel, Henry Pan, Dev Thosani, Jaocb Lin, Emil Mammadov, Jad Khraibani",
+    "eventTitle": "Video Game Design",
+    "placement": "Finalist",
+    "level": "Regionals",
+    "year": "2026",
+    "notes": "If you want to play the game: https://henspy.github.io/gametsa25/",
+    "mediaUrl": "attached_assets/Copy-of-7280---Video-Game-Design-A-Dogâs-Best-Friend-Space-City,-Texas-2026-1780413185754.mp4",
+    "position": 5
+  },
+  {
+    "id": 8,
+    "memberName": "Dev Thosani",
+    "eventTitle": "Biotechnology Design",
+    "placement": "Finalist",
+    "level": "Regionals",
+    "year": "2026",
+    "notes": "",
+    "mediaUrl": "attached_assets/biotech-1782696680601.jpg",
+    "position": 0
+  },
+  {
+    "id": 9,
+    "memberName": "Jacob Lin & Henry Pan",
+    "eventTitle": "Coding",
+    "placement": "Semi-Finalist",
+    "level": "Regionals",
+    "year": "2026",
+    "notes": "",
+    "mediaUrl": "attached_assets/Coding-1780413550094.jpg",
+    "position": 6
+  },
+  {
+    "id": 10,
+    "memberName": "Liba Sigel, Ireoluwa Freeman, Saffana Zindani",
+    "eventTitle": "Community Service Video",
+    "placement": "Finalist",
+    "level": "Nationals",
+    "year": "2025",
+    "notes": "",
+    "mediaUrl": "https://youtu.be/uz_kDgaUc4o",
+    "position": 15
+  },
+  {
+    "id": 11,
+    "memberName": "Bella Shabelansky",
+    "eventTitle": "Finish Model of a Residential Home",
+    "placement": "3rd Place",
+    "level": "Regionals",
+    "year": "2026",
+    "notes": "",
+    "mediaUrl": "attached_assets/residentail-home-1782669428827.jpg",
+    "position": 10
   },
   {
     "id": 12,
@@ -165,14 +132,47 @@
     "position": 9
   },
   {
-    "id": 8,
-    "memberName": "Dev Thosani",
-    "eventTitle": "Biotechnology Design",
+    "id": 13,
+    "memberName": "Liba Sigel",
+    "eventTitle": "Photography - Sunrise/ Sunset (Color)",
     "placement": "Finalist",
     "level": "Regionals",
     "year": "2026",
     "notes": "",
-    "mediaUrl": "attached_assets/biotech-1782696680601.jpg",
-    "position": 0
+    "mediaUrl": "attached_assets/Photography-Sunset.png",
+    "position": 8
+  },
+  {
+    "id": 14,
+    "memberName": "Joude Khraibani",
+    "eventTitle": "Photography - Pet (Color)",
+    "placement": "Finalist",
+    "level": "Regionals",
+    "year": "2026",
+    "notes": "",
+    "mediaUrl": "attached_assets/Photography-Pet.jpg",
+    "position": 7
+  },
+  {
+    "id": 15,
+    "memberName": "Henry Pan, Kiara MontefuscoGuzman, JP Tannoux, Marwan Elkady",
+    "eventTitle": "On Demand Video",
+    "placement": "Finalist",
+    "level": "Regionals",
+    "year": "2026",
+    "notes": "",
+    "mediaUrl": "https://youtu.be/X23V7CWgABI",
+    "position": 4
+  },
+  {
+    "id": 16,
+    "memberName": "Liba Sigel, Kiara MontefuscoGuzman, JP Tannoux, Joude Khraibani",
+    "eventTitle": "Digital Video Production",
+    "placement": "Finalist",
+    "level": "Regionals",
+    "year": "2026",
+    "notes": "Remix a Historical Event",
+    "mediaUrl": "https://youtu.be/FD0YpAv-PE8",
+    "position": 3
   }
 ]
