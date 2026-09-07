@@ -1,5 +1,14 @@
 [
   {
+    "id": 1,
+    "name": "Liba Sigel",
+    "role": "President",
+    "description": "Leads the chapter with vision and dedication, setting goals and guiding the team toward success.",
+    "imageUrl": "attached_assets/Liba-PFP-1782666661903.png",
+    "email": "S1873392@online.houstonisd.org",
+    "position": 0
+  },
+  {
     "id": 2,
     "name": "Bella Shabelansky",
     "role": "Vice President",
@@ -9,13 +18,22 @@
     "position": 1
   },
   {
-    "id": 1,
-    "name": "Liba Sigel",
-    "role": "President",
-    "description": "Leads the chapter with vision and dedication, setting goals and guiding the team toward success.",
-    "imageUrl": "attached_assets/Liba-PFP-1782666661903.png",
-    "email": "S1873392@online.houstonisd.org",
-    "position": 0
+    "id": 3,
+    "name": "Emil Mammadov",
+    "role": "Secretary",
+    "description": "Keeps detailed records of meetings, manages communications, and ensures everything is up to date.",
+    "imageUrl": "attached_assets/Emil-PFP.jpg",
+    "email": "S2010505@online.houstonisd.org",
+    "position": 2
+  },
+  {
+    "id": 4,
+    "name": "Avi Sigel",
+    "role": "Treasurer",
+    "description": "Manages the chapter funds, tracks dues and expenses, and ensures responsible budgeting.",
+    "imageUrl": "attached_assets/Avi-PFP(2)-1784064223394.jpg",
+    "email": "s187330@online.houstonisd.org",
+    "position": 3
   },
   {
     "id": 5,
@@ -36,24 +54,6 @@
     "position": 5
   },
   {
-    "id": 8,
-    "name": "Joude Khraibani",
-    "role": "Fundraiser Coordinator",
-    "description": "Plans fundraisers, secures grants, manages costs and profits, ensuring sufficient funding with treasurer.\n",
-    "imageUrl": "attached_assets/Joude-PFP-1783023058154.png",
-    "email": "S2172021@online.houstonisd.org",
-    "position": 7
-  },
-  {
-    "id": 4,
-    "name": "Avi Sigel",
-    "role": "Treasurer",
-    "description": "Manages the chapter funds, tracks dues and expenses, and ensures responsible budgeting.",
-    "imageUrl": "attached_assets/Avi-PFP(2)-1784064223394.jpg",
-    "email": "s187330@online.houstonisd.org",
-    "position": 3
-  },
-  {
     "id": 7,
     "name": "Devan Vyas",
     "role": "Fundraiser Coordinator",
@@ -63,12 +63,12 @@
     "position": 6
   },
   {
-    "id": 3,
-    "name": "Emil Mammadov",
-    "role": "Secretary",
-    "description": "Keeps detailed records of meetings, manages communications, and ensures everything is up to date.",
-    "imageUrl": "attached_assets/Emil-PFP.jpg",
-    "email": "S2010505@online.houstonisd.org",
-    "position": 2
+    "id": 8,
+    "name": "Joude Khraibani",
+    "role": "Fundraiser Coordinator",
+    "description": "Plans fundraisers, secures grants, manages costs and profits, ensuring sufficient funding with treasurer.\n",
+    "imageUrl": "attached_assets/Joude-PFP-1783023058154.png",
+    "email": "S2172021@online.houstonisd.org",
+    "position": 7
   }
 ]
