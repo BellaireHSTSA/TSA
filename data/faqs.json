@@ -1,27 +1,9 @@
 [
   {
-    "id": 9,
-    "question": "How do I qualify for the state conference?",
-    "answer": "In order to qualify to compete for the State Conference, projects/events must place top 3 at the Regional Conference with some exceptions. \n",
-    "position": 9
-  },
-  {
     "id": 1,
     "question": "How do I join TSA?",
     "answer": "You can attend the interest meeting at the beginning of the school year to learn more about TSA. At this meeting, you can fill out the interest form to let us know you are interested. If the meeting has already passed, that's okay! You can contact one of the officers for more information or join our Remind group @tsabhs26.",
     "position": 0
-  },
-  {
-    "id": 4,
-    "question": "What is the time commitment required as a member?",
-    "answer": "TSA does demand a lot more time to prepare for competition events and projects. The amount of time required for this preparation also depends on the number of events a member participates in and which types of events. If you feel like you do not have the time to commit, you can lower the total number of events you participate in or join less demanding events. \n",
-    "position": 3
-  },
-  {
-    "id": 3,
-    "question": "Are there fees in this club?",
-    "answer": "Yes, members will be required to pay for state and national membership dues and may need to contribute to competition entrance fees and material costs. \n",
-    "position": 2
   },
   {
     "id": 2,
@@ -30,10 +12,16 @@
     "position": 1
   },
   {
-    "id": 6,
-    "question": "What does TSA do? ",
-    "answer": "As a club, we host meetings every other week during lunch to check in on projects. Throughout the year, we also host different events like 3D design challenges and cookie decorating where all students are welcome to attend, not just paid members. \n",
-    "position": 5
+    "id": 3,
+    "question": "Are there fees in this club?",
+    "answer": "Yes, members will be required to pay for state and national membership dues and may need to contribute to competition entrance fees and material costs. \n",
+    "position": 2
+  },
+  {
+    "id": 4,
+    "question": "What is the time commitment required as a member?",
+    "answer": "TSA does demand a lot more time to prepare for competition events and projects. The amount of time required for this preparation also depends on the number of events a member participates in and which types of events. If you feel like you do not have the time to commit, you can lower the total number of events you participate in or join less demanding events. \n",
+    "position": 3
   },
   {
     "id": 5,
@@ -42,10 +30,10 @@
     "position": 4
   },
   {
-    "id": 11,
-    "question": "What skills does TSA teach members?",
-    "answer": "Depending on the events each member chooses to participate in, they will get the opportunity to explore different skill sets. Some events like coding, video game design, and forensic technology will be more focused on the technical skills used in those careers. However, there are also events like prepared presentation and debating technological issues that will focus more on softer skills like communication, presentation, and critical thinking skills. Overall, members will learn how to work with others, manage their time, and form mindsets that will prepare them for future careers. \n",
-    "position": 6
+    "id": 6,
+    "question": "What does TSA do? ",
+    "answer": "As a club, we host meetings every other week during lunch to check in on projects. Throughout the year, we also host different events like 3D design challenges and cookie decorating where all students are welcome to attend, not just paid members. \n",
+    "position": 5
   },
   {
     "id": 7,
@@ -54,21 +42,33 @@
     "position": 7
   },
   {
+    "id": 8,
+    "question": "When and where are the competitions?",
+    "answer": "There are 3 conferences each school year: The Regional Conference takes place in the Greater Houston area during February; The State Conference is located in Fort Worth in April; the National Conference is held in different locations across the US each year— 2027 is located in Orlando, Fl at the end of June. ",
+    "position": 8
+  },
+  {
+    "id": 9,
+    "question": "How do I qualify for the state conference?",
+    "answer": "In order to qualify to compete for the State Conference, projects/events must place top 3 at the Regional Conference with some exceptions. \n",
+    "position": 9
+  },
+  {
     "id": 10,
     "question": "Can I get kicked out of TSA?",
     "answer": "Members may be asked to leave if they are not behaving appropriately, failing to adequately contribute to team events, or being disrespectful to others. \n",
     "position": 10
   },
   {
+    "id": 11,
+    "question": "What skills does TSA teach members?",
+    "answer": "Depending on the events each member chooses to participate in, they will get the opportunity to explore different skill sets. Some events like coding, video game design, and forensic technology will be more focused on the technical skills used in those careers. However, there are also events like prepared presentation and debating technological issues that will focus more on softer skills like communication, presentation, and critical thinking skills. Overall, members will learn how to work with others, manage their time, and form mindsets that will prepare them for future careers. \n",
+    "position": 6
+  },
+  {
     "id": 12,
     "question": "Are there volunteering requirements as a member of TSA?",
     "answer": "Throughout the year, TSA members will be provided with volunteering opportunities such as working at fundraising events, volunteering at the Houston Food Bank, and participating in Bellaire club booths. However, these volunteering events are not mandatory. \n",
     "position": 11
-  },
-  {
-    "id": 8,
-    "question": "When and where are the competitions?",
-    "answer": "There are 3 conferences each school year: The Regional Conference takes place in the Greater Houston area during February; The State Conference is located in Fort Worth in April; the National Conference is held in different locations across the US each year— 2027 is located in Orlando, Fl at the end of June. ",
-    "position": 8
   }
 ]
