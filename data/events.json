@@ -6,8 +6,8 @@
     "difficulty": "Demanding",
     "description": "To address the annual design challenge, participants exhibit and demonstrate their knowledge of mechanical and control systems by creating an animatronic device with a specific purpose (i.e., communicate an idea, entertain, demonstrate a concept, etc.) that includes sound, lights, and an appropriate surrounding environment (a display).",
     "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": null,
+    "numTeamsMin": 3,
+    "numTeamsMax": 3,
     "teamSizeMin": 2,
     "teamSizeMax": 3,
     "position": 0
@@ -20,9 +20,9 @@
     "description": "In response to the annual design challenge, participants develop a set of architectural plans and related materials, and construct both a physical and computer-generated model to accurately depict their design. Semifinalists deliver a presentation and participate in an interview.",
     "guidelinesUrl": null,
     "numTeamsMin": 1,
-    "numTeamsMax": 1,
-    "teamSizeMin": null,
-    "teamSizeMax": null,
+    "numTeamsMax": 2,
+    "teamSizeMin": 1,
+    "teamSizeMax": 4,
     "position": 0
   },
   {
@@ -34,8 +34,8 @@
     "guidelinesUrl": null,
     "numTeamsMin": 1,
     "numTeamsMax": 1,
-    "teamSizeMin": null,
-    "teamSizeMax": null,
+    "teamSizeMin": 2,
+    "teamSizeMax": 2,
     "position": 0
   },
   {
@@ -45,9 +45,9 @@
     "difficulty": "Hard",
     "description": "Participants use digital audio technology to create original content for a podcast piece that addresses the annual theme. The podcast must feature high level storytelling techniques, voice acting, and folly sound effects; the full entry must include documentation of the podcast development process and elements. Semifinalists participate in an interview.",
     "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": null,
-    "teamSizeMin": null,
+    "numTeamsMin": 1,
+    "numTeamsMax": 3,
+    "teamSizeMin": 1,
     "teamSizeMax": null,
     "position": 0
   },
@@ -58,10 +58,10 @@
     "difficulty": "Demanding",
     "description": "Applying leadership and 21st century skills, participants collaborate to engineer and prototype an automated manufacturing system to solve a production problem. Teams analyze the prompt, build a sensor-based mechatronic solution, program the automation logic, document the mechanical and software design, and create instructions for judges to operate the system.",
     "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": null,
-    "teamSizeMin": null,
-    "teamSizeMax": null,
+    "numTeamsMin": 2,
+    "numTeamsMax": 2,
+    "teamSizeMin": 2,
+    "teamSizeMax": 3,
     "position": 0
   },
   {
@@ -73,7 +73,7 @@
     "guidelinesUrl": null,
     "numTeamsMin": 1,
     "numTeamsMax": 1,
-    "teamSizeMin": 2,
+    "teamSizeMin": 1,
     "teamSizeMax": null,
     "position": 0
   },
@@ -84,10 +84,10 @@
     "difficulty": "Hard",
     "description": "Participants develop, build, and package a board game that focuses on a subject of their choice. Creative packaging, and the instructions, pieces, and cards associated with the pilot game will be evaluated. Semifinalists set up the game, demonstrate how the game is played, explain the game’s features, and discuss the design process.",
     "guidelinesUrl": null,
-    "numTeamsMin": 1,
-    "numTeamsMax": 1,
+    "numTeamsMin": 3,
+    "numTeamsMax": 3,
     "teamSizeMin": 2,
-    "teamSizeMax": null,
+    "teamSizeMax": 4,
     "position": 0
   },
   {
@@ -97,9 +97,9 @@
     "difficulty": "Demanding",
     "description": "In response to the annual theme, participants create an illustrated children’s story of artistic, instructional, and social value, and submit documentation related to the development of the physical storybook. Semifinalists read their story aloud and participate in an interview.",
     "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": null,
-    "teamSizeMin": null,
+    "numTeamsMin": 1,
+    "numTeamsMax": 3,
+    "teamSizeMin": 1,
     "teamSizeMax": null,
     "position": 0
   },
@@ -110,8 +110,8 @@
     "difficulty": "Hard",
     "description": "Participants use complex computer graphic skills, tools, and processes to respond to a design challenge in which they develop representations of architectural subjects, such as foundation and/or floor plans, and/or elevation drawings, and/or details of architectural ornamentation or cabinetry. The solution to the design challenge and participant answers in an interview are evaluated.",
     "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": null,
+    "numTeamsMin": 2,
+    "numTeamsMax": 2,
     "teamSizeMin": 1,
     "teamSizeMax": 1,
     "position": 0
@@ -123,8 +123,8 @@
     "difficulty": "Hard",
     "description": "Participants use complex computer graphic skills, tools, and processes to respond to a design challenge in which they develop three-dimensional representations of engineering subjects, such as a machine part, tool, device, or manufactured product. The solution to the design challenge and participant answers in an interview are evaluated.",
     "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": null,
+    "numTeamsMin": 2,
+    "numTeamsMax": 2,
     "teamSizeMin": 1,
     "teamSizeMax": 1,
     "position": 0
@@ -136,10 +136,10 @@
     "difficulty": "Hard",
     "description": "Applying leadership and 21st century skills, participants respond to a cybersecurity challenge by identifying a breach in computer security via “Capture the Flag” games. Areas of challenge might include exploit development, digital puzzles, cryptography, reverse engineering, binary analysis, mobile security, etc. Participants must accurately address a series of on-site problems within a specified, limited amount of time.",
     "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": null,
-    "teamSizeMin": 1,
-    "teamSizeMax": 1,
+    "numTeamsMin": 1,
+    "numTeamsMax": 1,
+    "teamSizeMin": 2,
+    "teamSizeMax": 4,
     "position": 0
   },
   {
@@ -149,9 +149,9 @@
     "difficulty": "Medium",
     "description": "Participants identify a societal issue, collect or compile data from various sources about the issue, and then produce documentation and a digital scientific poster about their findings. Semifinalists create a synopsis and digital visual representation of a data set provided in an onsite challenge.",
     "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": null,
-    "teamSizeMin": 1,
+    "numTeamsMin": 1,
+    "numTeamsMax": 3,
+    "teamSizeMin": 2,
     "teamSizeMax": 2,
     "position": 0
   },
@@ -162,8 +162,8 @@
     "difficulty": "Hard",
     "description": "Participants research the annual topic and subtopics and prepare for a debate against a team from another chapter. Teams are instructed to take either the pro or con side of a selected subtopic, submit a summary of references, and use their research to support their assigned position. The quality of a team’s debate determines semifinalists and finalists.",
     "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": null,
+    "numTeamsMin": 3,
+    "numTeamsMax": 3,
     "teamSizeMin": 2,
     "teamSizeMax": 2,
     "position": 0
@@ -175,9 +175,9 @@
     "difficulty": "Medium",
     "description": "Participants develop and submit a digital video and a documentation portfolio (including such items as a storyboard, script, summary of references and sources, and equipment list) that reflects the annual theme. Semifinalists participate in an interview.",
     "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": null,
-    "teamSizeMin": null,
+    "numTeamsMin": 1,
+    "numTeamsMax": 3,
+    "teamSizeMin": 1,
     "teamSizeMax": null,
     "position": 0
   },
@@ -188,7 +188,7 @@
     "difficulty": "Hard",
     "description": "Participants design, draw, and construct a CO2-powered dragster that adheres to specifications, design and documentation requirements, and the annual theme. Semifinalists compete in a double-elimination race and participate in an interview.",
     "guidelinesUrl": null,
-    "numTeamsMin": 1,
+    "numTeamsMin": 2,
     "numTeamsMax": 2,
     "teamSizeMin": 1,
     "teamSizeMax": 1,
@@ -201,8 +201,8 @@
     "difficulty": "Demanding",
     "description": "Participants design, build, assemble, document, and test fly an open-source Unmanned Arial Vehicle (UAV) according to the stated annual theme/problem specifications. The required documentation portfolio must include elements such as a photographic log, wiring schematics, and a description of the programming software used. Semifinalists participate in an interview.",
     "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": null,
+    "numTeamsMin": 3,
+    "numTeamsMax": 3,
     "teamSizeMin": 2,
     "teamSizeMax": 6,
     "position": 0
@@ -214,10 +214,10 @@
     "difficulty": "Demanding",
     "description": "Participants develop a solution to an annual theme that is based on a specific challenge noted by the National Academy of Engineering (NAE) in its compilation of the grand challenges for engineering in the 21st century. The solution will include a documentation portfolio, a display, and a model/prototype. Semifinalists deliver a presentation and participate in an interview.",
     "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": null,
-    "teamSizeMin": 3,
-    "teamSizeMax": null,
+    "numTeamsMin": 5,
+    "numTeamsMax": 5,
+    "teamSizeMin": 2,
+    "teamSizeMax": 4,
     "position": 0
   },
   {
@@ -227,10 +227,10 @@
     "difficulty": "Medium",
     "description": "Participants select a technology-related or TSA topic from among three topic cards and prepare and give a three-to-five-minute speech that communicates their knowledge of the chosen topic. The quality of the speech determines advancement to the semifinalist level of competition, for which an identical competition procedure is followed to determine finalists.",
     "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": null,
-    "teamSizeMin": null,
-    "teamSizeMax": null,
+    "numTeamsMin": 3,
+    "numTeamsMax": 3,
+    "teamSizeMin": 1,
+    "teamSizeMax": 1,
     "position": 0
   },
   {
@@ -240,8 +240,8 @@
     "difficulty": "Hard",
     "description": "To address the annual theme, participants demonstrate expertise in fashion design principles by creating a wearable garment, garment patterns, and a documentation portfolio. Semifinalist teams present their garment designs (worn by team models), discuss the design process with evaluators, and respond to interview questions.",
     "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": null,
+    "numTeamsMin": 5,
+    "numTeamsMax": 5,
     "teamSizeMin": 2,
     "teamSizeMax": 4,
     "position": 0
@@ -253,7 +253,7 @@
     "difficulty": "Demanding",
     "description": "Participants design, build, fly, and adjust (trim) a rubber-band powered model aircraft to make long endurance flights inside a contained airspace. Documentation (including elements such as attributes of the model design, drawings, and an analysis of the trim modifications), an inspection of the model and the required model flight box, and official times for two flights are aspects of the evaluation",
     "guidelinesUrl": null,
-    "numTeamsMin": 1,
+    "numTeamsMin": 2,
     "numTeamsMax": 2,
     "teamSizeMin": 1,
     "teamSizeMax": 1,
@@ -279,8 +279,8 @@
     "difficulty": "Hard",
     "description": "Participants research a developing technology, prepare a video showing an application of the technology in the classroom, and create a lesson plan/activity that features the application and connects to the Standards for Technological and Engineering Literacy (STEL), as well as STEM initiatives and integration. Semifinalists demonstrate the lesson plan and answer questions about their presentation.",
     "guidelinesUrl": null,
-    "numTeamsMin": 1,
-    "numTeamsMax": 3,
+    "numTeamsMin": 2,
+    "numTeamsMax": 2,
     "teamSizeMin": 1,
     "teamSizeMax": 1,
     "position": 0
@@ -295,7 +295,7 @@
     "numTeamsMin": 1,
     "numTeamsMax": 1,
     "teamSizeMin": 2,
-    "teamSizeMax": 3,
+    "teamSizeMax": 4,
     "position": 0
   },
   {
@@ -306,9 +306,9 @@
     "description": "Applying leadership and 21st century skills, participants develop a color sample and material design board(s) used by interior designers to plan an overall cohesive design based on an annual challenge. Participants must demonstrate an understanding of and aptitude for interior design, developing design boards, and presenting a design interpretation. ",
     "guidelinesUrl": null,
     "numTeamsMin": 1,
-    "numTeamsMax": 1,
-    "teamSizeMin": 2,
-    "teamSizeMax": 3,
+    "numTeamsMax": 3,
+    "teamSizeMin": 1,
+    "teamSizeMax": 2,
     "position": 0
   },
   {
@@ -320,7 +320,7 @@
     "guidelinesUrl": null,
     "numTeamsMin": 1,
     "numTeamsMax": 1,
-    "teamSizeMin": 2,
+    "teamSizeMin": 1,
     "teamSizeMax": null,
     "position": 0
   },
@@ -331,9 +331,9 @@
     "difficulty": "Hard",
     "description": "Participants produce an original musical piece that reﬂects the annual theme on the TSA website under Themes & Problems. The quality of the musical piece and required documentation (including elements such as a plan of work, self-evaluation, and a list of hardware, software, and instruments used) determines advancement to the semifinal level of competition, during which semifinalist participants are interviewed.",
     "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": null,
-    "teamSizeMin": null,
+    "numTeamsMin": 1,
+    "numTeamsMax": 3,
+    "teamSizeMin": 1,
     "teamSizeMax": null,
     "position": 0
   },
@@ -346,7 +346,7 @@
     "guidelinesUrl": null,
     "numTeamsMin": 1,
     "numTeamsMax": 1,
-    "teamSizeMin": 2,
+    "teamSizeMin": 1,
     "teamSizeMax": null,
     "position": 0
   },
@@ -370,8 +370,8 @@
     "difficulty": "Medium",
     "description": "Participants deliver a three-to-five-minute oral presentation related to the current national TSA conference theme. Both semifinalists and finalists are determined based on the quality of the presentation and the appropriate use and content of the accompanying required slide deck.",
     "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": null,
+    "numTeamsMin": 3,
+    "numTeamsMax": 3,
     "teamSizeMin": 1,
     "teamSizeMax": 1,
     "position": 0
@@ -383,8 +383,8 @@
     "difficulty": "Medium",
     "description": "Participants use computerized graphic communications layout and design skills to produce a promotional resource packet. The resource must address the annual theme/problem and include at least four printed publication items and required documentation. Semifinalists demonstrate publishing competency in an onsite technical design challenge.",
     "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": null,
+    "numTeamsMin": 3,
+    "numTeamsMax": 3,
     "teamSizeMin": 1,
     "teamSizeMax": 1,
     "position": 0
@@ -396,8 +396,8 @@
     "difficulty": "Demanding",
     "description": "Participants design, build, document, and test a robot assembled using open-sourced parts according to stated specifications and to meet the challenge of the yearly theme/problem.",
     "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": null,
+    "numTeamsMin": 2,
+    "numTeamsMax": 2,
     "teamSizeMin": 2,
     "teamSizeMax": 6,
     "position": 0
@@ -411,7 +411,7 @@
     "guidelinesUrl": null,
     "numTeamsMin": 1,
     "numTeamsMax": 1,
-    "teamSizeMin": 2,
+    "teamSizeMin": 1,
     "teamSizeMax": null,
     "position": 0
   },
@@ -487,9 +487,9 @@
     "difficulty": "Demanding",
     "description": "Participants design, build, and launch an E-rated online video game – with accompanying required documentation - that addresses the annual theme. Semifinalists participate in an interview to demonstrate the knowledge and expertise they gained during the development of the game.",
     "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": null,
-    "teamSizeMin": 2,
+    "numTeamsMin": 5,
+    "numTeamsMax": 5,
+    "teamSizeMin": 1,
     "teamSizeMax": null,
     "position": 0
   },
@@ -502,7 +502,7 @@
     "guidelinesUrl": null,
     "numTeamsMin": 1,
     "numTeamsMax": 1,
-    "teamSizeMin": null,
+    "teamSizeMin": 1,
     "teamSizeMax": null,
     "position": 0
   },
@@ -513,10 +513,10 @@
     "difficulty": "Hard",
     "description": "Vlogging encourages good storytelling, videography, and editing techniques to create a coherent series of creative work. Applying leadership and 21st century skills, participants use digital video technology to create original content that reflects an annual technology theme. Semifinalists complete an onsite challenge to produce additional video(s). Required criteria, such as props, lines of dialog, topics, etc., will be revealed at the semifinalist orientation meeting.",
     "guidelinesUrl": null,
-    "numTeamsMin": 1,
-    "numTeamsMax": 1,
+    "numTeamsMin": 2,
+    "numTeamsMax": 2,
     "teamSizeMin": 2,
-    "teamSizeMax": null,
+    "teamSizeMax": 6,
     "position": 0
   },
   {
@@ -528,8 +528,8 @@
     "guidelinesUrl": null,
     "numTeamsMin": 1,
     "numTeamsMax": 1,
-    "teamSizeMin": 2,
-    "teamSizeMax": null,
+    "teamSizeMin": 1,
+    "teamSizeMax": 6,
     "position": 0
   },
   {
@@ -647,19 +647,6 @@
     "numTeamsMax": null,
     "teamSizeMin": 2,
     "teamSizeMax": 4,
-    "position": 0
-  },
-  {
-    "id": 149,
-    "title": "AI",
-    "category": "UTE",
-    "difficulty": "Medium",
-    "description": "AI",
-    "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": 2,
-    "teamSizeMin": 1,
-    "teamSizeMax": 5,
     "position": 0
   }
 ]
