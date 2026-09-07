@@ -21,22 +21,24 @@ const DEFAULTS = {
     "Leadership meetings focus on strategic planning, event logistics, and chapter management. Open to elected officers and committee heads.",
   meetings_officer_schedule: "Mondays, 7:30 AM - 8:15 AM",
   meetings_officer_location: "Room 2607 (Dr. Pichot's Room)",
-  meetings_agenda: JSON.stringify([
-    { date: "Aug 20, 2026", topic: "Interest Meeting", type: "General" },
-    { date: "Sep 1, 2026", topic: "Events Meeting", type: "General" },
-    { date: "Feb 12, 2027", topic: "Regional Conference", type: "Conference" },
-  ]),
+  meetings_agenda: [
+    { date: "Aug 20, 2026", topic: "Interest Meeting", type: "General", time: "2nd Half of Lunch" },
+    { date: "Sep 1, 2026", topic: "Events Meeting", type: "General", time: "All of Lunch" },
+    { date: "Feb 12, 2027", topic: "Regional Conference", type: "Conference", time: "TBD" },
+  ],
 };
 
-const settings = settingsData as Record<string, string>;
+const settings = settingsData as Record<string, unknown>;
 
 export default function Meetings() {
-  const get = (key: keyof typeof DEFAULTS) => settings[key] ?? DEFAULTS[key];
+  const get = (key: keyof typeof DEFAULTS) => {
+    const value = settings[key];
+    return typeof value === "string" ? value : DEFAULTS[key];
+  };
 
-  let agendaItems: AgendaItem[] = [];
-  try {
-    agendaItems = JSON.parse(get("meetings_agenda"));
-  } catch {}
+  const agendaItems: AgendaItem[] = Array.isArray(settings.meetings_agenda)
+    ? (settings.meetings_agenda as AgendaItem[])
+    : [];
 
   return (
     <div className="min-h-screen bg-background pb-20">
