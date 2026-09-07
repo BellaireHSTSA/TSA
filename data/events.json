@@ -27,6 +27,19 @@
   },
   {
     "id": 75,
+    "title": "Artificial Intelligence",
+    "category": "NQE",
+    "difficulty": "Mdedium",
+    "description": "Applying leadership and 21st century skills, participants demonstrate knowledge of artificial intelligence (AI) concepts, models, and best practices by completing a test to qualify for semifinals. Semifinalist teams solve an onsite problem(s) using a generative artificial intelligence (GenAI) tool. Completed solutions are objectively measured to determine the best solution for the stated problem.",
+    "guidelinesUrl": null,
+    "numTeamsMin": 1,
+    "numTeamsMax": 1,
+    "teamSizeMin": null,
+    "teamSizeMax": null,
+    "position": 0
+  },
+  {
+    "id": 76,
     "title": "Audio Podcasting",
     "category": "NQE",
     "difficulty": "Hard",
@@ -39,7 +52,20 @@
     "position": 0
   },
   {
-    "id": 76,
+    "id": 77,
+    "title": "Automated Manufacturing Systems",
+    "category": "NQE",
+    "difficulty": "Demanding",
+    "description": "Applying leadership and 21st century skills, participants collaborate to engineer and prototype an automated manufacturing system to solve a production problem. Teams analyze the prompt, build a sensor-based mechatronic solution, program the automation logic, document the mechanical and software design, and create instructions for judges to operate the system.",
+    "guidelinesUrl": null,
+    "numTeamsMin": null,
+    "numTeamsMax": null,
+    "teamSizeMin": null,
+    "teamSizeMax": null,
+    "position": 0
+  },
+  {
+    "id": 78,
     "title": "Biotechnology Design",
     "category": "NQE",
     "difficulty": "Medium",
@@ -52,7 +78,7 @@
     "position": 0
   },
   {
-    "id": 77,
+    "id": 79,
     "title": "Board Game Design",
     "category": "NQE",
     "difficulty": "Hard",
@@ -65,7 +91,7 @@
     "position": 0
   },
   {
-    "id": 78,
+    "id": 80,
     "title": "Children's Stories",
     "category": "NQE",
     "difficulty": "Demanding",
@@ -78,20 +104,7 @@
     "position": 0
   },
   {
-    "id": 79,
-    "title": "Coding",
-    "category": "NQE",
-    "difficulty": "Hard",
-    "description": "Participants take a test, which concentrates on aspects of coding, to qualify for the semifinal round of competition. Semifinalists develop a software program – in a designated amount of time – that accurately addresses an onsite problem.",
-    "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": null,
-    "teamSizeMin": 2,
-    "teamSizeMax": 2,
-    "position": 0
-  },
-  {
-    "id": 80,
+    "id": 81,
     "title": "Computer-Aided Design (CAD), Architecture",
     "category": "NQE",
     "difficulty": "Hard",
@@ -104,7 +117,7 @@
     "position": 0
   },
   {
-    "id": 81,
+    "id": 82,
     "title": "Computer-Aided Design (CAD), Engineering",
     "category": "NQE",
     "difficulty": "Hard",
@@ -117,7 +130,20 @@
     "position": 0
   },
   {
-    "id": 82,
+    "id": 83,
+    "title": "Cybersecurity",
+    "category": "NQE",
+    "difficulty": "Hard",
+    "description": "Applying leadership and 21st century skills, participants respond to a cybersecurity challenge by identifying a breach in computer security via “Capture the Flag” games. Areas of challenge might include exploit development, digital puzzles, cryptography, reverse engineering, binary analysis, mobile security, etc. Participants must accurately address a series of on-site problems within a specified, limited amount of time.",
+    "guidelinesUrl": null,
+    "numTeamsMin": null,
+    "numTeamsMax": null,
+    "teamSizeMin": 1,
+    "teamSizeMax": 1,
+    "position": 0
+  },
+  {
+    "id": 84,
     "title": "Data Science and Analytics",
     "category": "NQE",
     "difficulty": "Medium",
@@ -130,7 +156,7 @@
     "position": 0
   },
   {
-    "id": 83,
+    "id": 85,
     "title": "Debating Technological Issues",
     "category": "NQE",
     "difficulty": "Hard",
@@ -143,7 +169,7 @@
     "position": 0
   },
   {
-    "id": 84,
+    "id": 86,
     "title": "Digital Video Production",
     "category": "NQE",
     "difficulty": "Medium",
@@ -156,7 +182,7 @@
     "position": 0
   },
   {
-    "id": 85,
+    "id": 87,
     "title": "Dragster Design",
     "category": "NQE",
     "difficulty": "Hard",
@@ -169,7 +195,7 @@
     "position": 0
   },
   {
-    "id": 86,
+    "id": 88,
     "title": "Drone Challenge (UAV)",
     "category": "NQE",
     "difficulty": "Demanding",
@@ -182,7 +208,7 @@
     "position": 0
   },
   {
-    "id": 87,
+    "id": 89,
     "title": "Engineering Design",
     "category": "NQE",
     "difficulty": "Demanding",
@@ -195,7 +221,7 @@
     "position": 0
   },
   {
-    "id": 88,
+    "id": 90,
     "title": "Extemporaneous Speech",
     "category": "NQE",
     "difficulty": "Medium",
@@ -208,7 +234,7 @@
     "position": 0
   },
   {
-    "id": 89,
+    "id": 91,
     "title": "Fashion Design and Technology",
     "category": "NQE",
     "difficulty": "Hard",
@@ -221,7 +247,7 @@
     "position": 0
   },
   {
-    "id": 90,
+    "id": 92,
     "title": "Flight Endurance",
     "category": "NQE",
     "difficulty": "Demanding",
@@ -234,7 +260,7 @@
     "position": 0
   },
   {
-    "id": 91,
+    "id": 93,
     "title": "Forensic Science",
     "category": "NQE",
     "difficulty": "Hard",
@@ -247,7 +273,7 @@
     "position": 0
   },
   {
-    "id": 92,
+    "id": 94,
     "title": "Future Technology Teacher",
     "category": "NQE",
     "difficulty": "Hard",
@@ -260,11 +286,11 @@
     "position": 0
   },
   {
-    "id": 93,
-    "title": "Geospatial Technology",
+    "id": 95,
+    "title": "Hybrid Racer XL",
     "category": "NQE",
     "difficulty": "Hard",
-    "description": "To address the issue presented in an annual theme, participants interpret geospatial data and develop a digital portfolio containing maps, data, and pertinent documentation. Semifinalists defend their projections and visual infographic during a presentation/interview.",
+    "description": "Hybrid Racer XL provides a hands-on opportunity for participants to apply science, technology, engineering, and mathematics (STEM) concepts - as well as leadership and 21st century skills such as creativity, teamwork, and problem-solving skills - as they design (according to annual requirements, if any), construct, and race a dual-powered (solar and battery) car.",
     "guidelinesUrl": null,
     "numTeamsMin": 1,
     "numTeamsMax": 1,
@@ -273,7 +299,20 @@
     "position": 0
   },
   {
-    "id": 94,
+    "id": 96,
+    "title": "Interior Design",
+    "category": "NQE",
+    "difficulty": "Medium",
+    "description": "Applying leadership and 21st century skills, participants develop a color sample and material design board(s) used by interior designers to plan an overall cohesive design based on an annual challenge. Participants must demonstrate an understanding of and aptitude for interior design, developing design boards, and presenting a design interpretation. ",
+    "guidelinesUrl": null,
+    "numTeamsMin": 1,
+    "numTeamsMax": 1,
+    "teamSizeMin": 2,
+    "teamSizeMax": 3,
+    "position": 0
+  },
+  {
+    "id": 97,
     "title": "Manufacturing Prototype",
     "category": "NQE",
     "difficulty": "Demanding",
@@ -286,7 +325,7 @@
     "position": 0
   },
   {
-    "id": 95,
+    "id": 98,
     "title": "Music Production",
     "category": "NQE",
     "difficulty": "Hard",
@@ -299,7 +338,7 @@
     "position": 0
   },
   {
-    "id": 96,
+    "id": 99,
     "title": "On Demand Video",
     "category": "NQE",
     "difficulty": "Hard",
@@ -312,7 +351,7 @@
     "position": 0
   },
   {
-    "id": 97,
+    "id": 100,
     "title": "Photographic Technology",
     "category": "NQE",
     "difficulty": "Medium",
@@ -325,7 +364,7 @@
     "position": 0
   },
   {
-    "id": 98,
+    "id": 101,
     "title": "Prepared Presentation",
     "category": "NQE",
     "difficulty": "Medium",
@@ -338,7 +377,7 @@
     "position": 0
   },
   {
-    "id": 99,
+    "id": 102,
     "title": "Promotional Design",
     "category": "NQE",
     "difficulty": "Medium",
@@ -351,7 +390,7 @@
     "position": 0
   },
   {
-    "id": 100,
+    "id": 103,
     "title": "Robotics",
     "category": "NQE",
     "difficulty": "Demanding",
@@ -364,20 +403,7 @@
     "position": 0
   },
   {
-    "id": 101,
-    "title": "Senior Solar Sprint",
-    "category": "NQE",
-    "difficulty": "Demanding",
-    "description": "Students apply scientific understanding, creativity, experimentation, and teamwork to design, build, and race a model solar vehicle that carries a payload. Documentation of the process is required.",
-    "guidelinesUrl": null,
-    "numTeamsMin": 1,
-    "numTeamsMax": 1,
-    "teamSizeMin": 2,
-    "teamSizeMax": 4,
-    "position": 0
-  },
-  {
-    "id": 102,
+    "id": 104,
     "title": "Software Development",
     "category": "NQE",
     "difficulty": "Hard",
@@ -390,7 +416,7 @@
     "position": 0
   },
   {
-    "id": 103,
+    "id": 105,
     "title": "STEM Mass Media",
     "category": "NQE",
     "difficulty": "Medium",
@@ -403,7 +429,7 @@
     "position": 0
   },
   {
-    "id": 104,
+    "id": 106,
     "title": "Structural Design and Engineering",
     "category": "NQE",
     "difficulty": "Demanding",
@@ -416,20 +442,7 @@
     "position": 0
   },
   {
-    "id": 105,
-    "title": "System Control Technology",
-    "category": "NQE",
-    "difficulty": "Demanding",
-    "description": "Participants develop a solution to a problem (typically one from an industrial setting) presented onsite at the conference. They analyze the problem, build a computer-controlled mechanical model, program the model, demonstrate the programming and mechanical features of the model-solution in an interview, and provide instructions for evaluators to operate the model.",
-    "guidelinesUrl": null,
-    "numTeamsMin": null,
-    "numTeamsMax": null,
-    "teamSizeMin": 3,
-    "teamSizeMax": 3,
-    "position": 0
-  },
-  {
-    "id": 106,
+    "id": 107,
     "title": "Technology Bowl",
     "category": "NQE",
     "difficulty": "Hard",
@@ -442,7 +455,7 @@
     "position": 0
   },
   {
-    "id": 107,
+    "id": 108,
     "title": "Technology Problem Solving",
     "category": "NQE",
     "difficulty": "Demanding",
@@ -455,7 +468,7 @@
     "position": 0
   },
   {
-    "id": 108,
+    "id": 109,
     "title": "Transportation Modeling",
     "category": "NQE",
     "difficulty": "Demanding",
@@ -468,7 +481,7 @@
     "position": 0
   },
   {
-    "id": 109,
+    "id": 110,
     "title": "Video Game Design",
     "category": "NQE",
     "difficulty": "Demanding",
@@ -481,7 +494,7 @@
     "position": 0
   },
   {
-    "id": 110,
+    "id": 111,
     "title": "Virtual Reality Simulation (VR)",
     "category": "NQE",
     "difficulty": "Demanding",
@@ -494,7 +507,20 @@
     "position": 0
   },
   {
-    "id": 111,
+    "id": 112,
+    "title": "Vlogging",
+    "category": "NQE",
+    "difficulty": "Hard",
+    "description": "Vlogging encourages good storytelling, videography, and editing techniques to create a coherent series of creative work. Applying leadership and 21st century skills, participants use digital video technology to create original content that reflects an annual technology theme. Semifinalists complete an onsite challenge to produce additional video(s). Required criteria, such as props, lines of dialog, topics, etc., will be revealed at the semifinalist orientation meeting.",
+    "guidelinesUrl": null,
+    "numTeamsMin": 1,
+    "numTeamsMax": 1,
+    "teamSizeMin": 2,
+    "teamSizeMax": null,
+    "position": 0
+  },
+  {
+    "id": 113,
     "title": "Webmaster",
     "category": "NQE",
     "difficulty": "Demanding",
