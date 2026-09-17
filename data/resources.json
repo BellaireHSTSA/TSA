@@ -4,15 +4,23 @@
     "title": "UTE Rules",
     "description": "Use this website to see the specific rules for your event.",
     "url": "https://datastudio.google.com/reporting/c75d8317-e4e3-4184-80a3-7d4f34933008/page/p_h5dqh4rt6d",
-    "category": "General",
+    "category": "UTE",
     "position": 1
+  },
+  {
+    "id": 3,
+    "title": "Minimum Required Documentation",
+    "description": "Use this website to find specific forms are needed for UTE events",
+    "url": "https://datastudio.google.com/u/0/reporting/c75d8317-e4e3-4184-80a3-7d4f34933008/page/p_saa9ql0y6d",
+    "category": "UTE",
+    "position": 0
   },
   {
     "id": 2,
     "title": "National TSA Website",
     "description": "Use this website to find general information.",
     "url": "https://tsaweb.org/",
-    "category": "General",
+    "category": "NQE",
     "position": 0
   },
   {
@@ -20,7 +28,7 @@
     "title": "National TSA Themes and Problems",
     "description": "Use this website to find specific information on an event with a theme.",
     "url": "https://tsaweb.org/competitions/themes-and-problems",
-    "category": "General",
+    "category": "NQE",
     "position": 0
   }
 ]
