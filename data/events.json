@@ -163,7 +163,7 @@
     "description": "Participants research the annual topic and subtopics and prepare for a debate against a team from another chapter. Teams are instructed to take either the pro or con side of a selected subtopic, submit a summary of references, and use their research to support their assigned position. The quality of a team’s debate determines semifinalists and finalists.",
     "guidelinesUrl": null,
     "numTeamsMin": 1,
-    "numTeamsMax": 3,
+    "numTeamsMax": 2,
     "teamSizeMin": 2,
     "teamSizeMax": 2,
     "position": 0
@@ -215,7 +215,7 @@
     "description": "Participants develop a solution to an annual theme that is based on a specific challenge noted by the National Academy of Engineering (NAE) in its compilation of the grand challenges for engineering in the 21st century. The solution will include a documentation portfolio, a display, and a model/prototype. Semifinalists deliver a presentation and participate in an interview.",
     "guidelinesUrl": null,
     "numTeamsMin": 1,
-    "numTeamsMax": 5,
+    "numTeamsMax": 3,
     "teamSizeMin": 2,
     "teamSizeMax": 4,
     "position": 0
@@ -228,7 +228,7 @@
     "description": "Participants select a technology-related or TSA topic from among three topic cards and prepare and give a three-to-five-minute speech that communicates their knowledge of the chosen topic. The quality of the speech determines advancement to the semifinalist level of competition, for which an identical competition procedure is followed to determine finalists.",
     "guidelinesUrl": null,
     "numTeamsMin": 1,
-    "numTeamsMax": 3,
+    "numTeamsMax": 2,
     "teamSizeMin": 1,
     "teamSizeMax": 1,
     "position": 0
@@ -241,7 +241,7 @@
     "description": "To address the annual theme, participants demonstrate expertise in fashion design principles by creating a wearable garment, garment patterns, and a documentation portfolio. Semifinalist teams present their garment designs (worn by team models), discuss the design process with evaluators, and respond to interview questions.",
     "guidelinesUrl": null,
     "numTeamsMin": 1,
-    "numTeamsMax": 5,
+    "numTeamsMax": 3,
     "teamSizeMin": 2,
     "teamSizeMax": 4,
     "position": 0
@@ -371,7 +371,7 @@
     "description": "Participants deliver a three-to-five-minute oral presentation related to the current national TSA conference theme. Both semifinalists and finalists are determined based on the quality of the presentation and the appropriate use and content of the accompanying required slide deck.",
     "guidelinesUrl": null,
     "numTeamsMin": 1,
-    "numTeamsMax": 3,
+    "numTeamsMax": 2,
     "teamSizeMin": 1,
     "teamSizeMax": 1,
     "position": 0
@@ -488,7 +488,7 @@
     "description": "Participants design, build, and launch an E-rated online video game – with accompanying required documentation - that addresses the annual theme. Semifinalists participate in an interview to demonstrate the knowledge and expertise they gained during the development of the game.",
     "guidelinesUrl": null,
     "numTeamsMin": 1,
-    "numTeamsMax": 5,
+    "numTeamsMax": 3,
     "teamSizeMin": 1,
     "teamSizeMax": null,
     "position": 0
