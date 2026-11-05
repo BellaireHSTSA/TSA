@@ -2,25 +2,25 @@
   "admin_password": "TSA2025",
   "meetings_agenda": [
     {
-      "date": "Sep 9, 2026",
+      "date": "Nov 9, 2026",
       "topic": "Competitive Events Meeting",
       "type": "General",
       "time": "All of Lunch"
     },
     {
-      "date": "Sep 23, 2026",
+      "date": "Nov 23, 2026",
       "topic": "Finalize Teams and Events",
       "type": "General",
       "time": "2nd Half of Lunch"
     },
     {
-        "date": "Oct 5-9, 2026",
+        "date": "Nov 5-9, 2026",
         "topic": "Build Team Timelines",
         "type": "Events",
         "time": "TBD"
     },
     {
-        "date": "Feb TBD, 2027",
+        "date": "Nov 5-6, 2027",
         "topic": "Regional Conference",
         "type": "Events",
         "time": "All Day"
