@@ -1,10 +1,18 @@
 [
   {
     "id": 1,
-    "title": "UTE Rules",
-    "description": "Use this website to see the specific rules for your event.",
-    "url": "https://datastudio.google.com/reporting/c75d8317-e4e3-4184-80a3-7d4f34933008/page/p_h5dqh4rt6d",
-    "category": "UTE",
+    "title": "Member Events",
+    "description": "Use this google doc to see what events you are in",
+    "url": "https://docs.google.com/document/d/1vXXKGKvXN4lBb-ZTywE_Fe1BjZbSIKg0Kq5ZGO0wn0E/edit?usp=sharing",
+    "category": "Events",
+    "position": 1
+  },
+  {
+    "id": 1,
+    "title": "Event Instructions",
+    "description": "Use this folder to see all the instructions of all events",
+    "url": "https://drive.google.com/drive/folders/15vn1rOtc43FqmqIn5uiBfef40RpjK_MM?usp=sharing",
+    "category": "Events",
     "position": 1
   },
   {
