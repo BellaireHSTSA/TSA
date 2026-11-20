@@ -8,7 +8,7 @@
     "position": 1
   },
   {
-    "id": 1,
+    "id": 2,
     "title": "Event Instructions",
     "description": "Use this folder to see all the instructions of all events",
     "url": "https://drive.google.com/drive/folders/15vn1rOtc43FqmqIn5uiBfef40RpjK_MM?usp=sharing",
@@ -24,7 +24,7 @@
     "position": 0
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "National TSA Website",
     "description": "Use this website to find general information.",
     "url": "https://tsaweb.org/",
@@ -32,7 +32,7 @@
     "position": 0
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "National TSA Themes and Problems",
     "description": "Use this website to find specific information on an event with a theme.",
     "url": "https://tsaweb.org/competitions/themes-and-problems",
